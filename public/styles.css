@@ -1,0 +1,70 @@
+body{
+    background-color: #001219;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 100px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1b263b;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+  }
+
+  footer a {
+      margin:0 18px;
+      color: aliceblue;
+      text-decoration: none;
+  }
+
+  .title{
+      text-align: center;
+      line-height: 10px;
+  }
+
+  .profile-pic img{
+      text-align: center;
+      height: 120px;
+      border-radius: 30%;
+      display: block;
+      margin-top: 60px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+  }
+
+  .content{
+     max-width: 800px;
+      margin: auto;
+      padding: 14px;
+  }
+
+  .section-title{
+      font-weight: bold;
+      color: #17c3b2;
+  }
+
+  .separator{
+      background-color: #1b263b;
+      height: 6px;
+      max-width: 200px;
+      width: 100%;
+  }
+
+  .section-subtitle{
+      color: #8e94f2;
+  }
+
+  .job-title{
+    color: #8e94f2;
+}
+
+  .place{
+      color: #fdc500;
+  }
