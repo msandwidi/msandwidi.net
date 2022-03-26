@@ -68,3 +68,8 @@ footer {
   .place{
       color: #fdc500;
   }
+
+  .project-description a,.project-description span {
+    text-decoration: none;
+    color: #80ffdb;
+  }
