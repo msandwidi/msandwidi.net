@@ -73,13 +73,25 @@ footer a {
   color: #fdc500;
 }
 
+.experience-link
+{
+  text-decoration: none;
+  color: #fdc500;
+}
+
 .project-description a,
 .project-description span {
   text-decoration: none;
   color: #80ffdb;
 }
 
-.blog-link{
+.link-icon{
+  color: white;
+}
+
+.blog-link,
+.certificate-link
+{
   text-decoration: none;
   color: #8e94f2;
 }
